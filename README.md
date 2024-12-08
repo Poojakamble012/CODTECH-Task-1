@@ -1,10 +1,10 @@
 # CODTECH-Task-1
 
-Name - Pooja Kamble
-Company - CODTECH IT SOLUTIONS
-ID - CT6WDS2366
-Domain - Power BI
-Duration - Nov 15th 2024 to Dec 30th 2024
+> Name - Pooja Kamble
+> Company - CODTECH IT SOLUTIONS
+> ID - CT6WDS2366
+> Domain - Power BI
+> Duration - Nov 15th 2024 to Dec 30th 2024
 
 **Overview of the Project**
 
@@ -38,19 +38,16 @@ Technologies Used:
 
 1. Power BI:
 Power BI Desktop: For data importing, transformation, and creating reports and dashboards.
-Power BI Service: For sharing, collaboration, and distributing the final dashboard.
 
 2. Data Sources:
 Excel: For importing HR data like employee records, performance scores, etc.
-SQL Server / Databases: For real-time HR data integration if applicable.
 
 3. DAX (Data Analysis Expressions):
-Used for creating calculated fields, aggregations, and custom metrics (such as attrition rate, average salary, and years of experience).
+Used for creating calculated fields, aggregations, and custom metrics (such as attrition rate).
 
 4. Power Query:
 For data cleaning, transformation, and shaping before loading into Power BI.
 
 5. Visualization Tools in Power BI:
 Bar Charts, Pie Charts, Line Graphs, and Scatter Plots: To visualize employee demographics, salary distribution, and attrition trends.
-Heatmaps and Tree Maps: To analyze department-wise attrition and performance data.
 Slicers and Filters: For user interactivity and data segmentation.
