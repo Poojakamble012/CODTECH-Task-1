@@ -11,7 +11,8 @@
 Project - HR Analytics Dashboard
 
 
-![Uploading image.png…]()
+![Screenshot (1381)](https://github.com/user-attachments/assets/0ddc7d83-c8f0-4112-a5b9-00ed632056bd)
+
 
 
 Objective:
