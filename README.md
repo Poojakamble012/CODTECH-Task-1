@@ -10,6 +10,10 @@
 
 Project - HR Analytics Dashboard
 
+
+![Uploading image.png…]()
+
+
 Objective:
 The main objective of this project is to develop a comprehensive, interactive HR Analytics Dashboard using Power BI. The dashboard is designed to help HR professionals and management teams gain valuable insights into employee attrition trends, performance metrics, and workforce demographics. By analyzing these key factors, organizations can make data-driven decisions to improve employee retention, optimize HR policies, and enhance overall workforce performance.
 
